@@ -1,0 +1,4 @@
+TO DO LIST - Indoned Dev Processes:
+1. Pembuatan dokumen Proses Development dari Penelitian Strategis.
+2. Penyusunan Deskripsi Umum Perangkat Lunak INDONED
+3. Pendefinisian 3 kebutuhan utama dari "Aplikasi Pengkajian Gizi untuk Pasien Rawat Inap di Ruang ICU"
