@@ -4,3 +4,8 @@ TO DO LIST - Indoned Dev Processes:
 3. Pendefinisian 3 kebutuhan utama dari "Aplikasi Pengkajian Gizi untuk Pasien Rawat Inap di Ruang ICU"
 4. Pendefinisian konsep dasar dari model pengembangan perangkat lunak Waterfall
 5. Ditambahkan bab tentang rekayasa kebutuhan.
+6. Menambahkan Use Case Diagram
+7. Menambahkan Use Case Scenario
+8. Menambahkan ERD dan PDM
+9. Menambahkan Implementasi
+10. Menghapus Pengujian
