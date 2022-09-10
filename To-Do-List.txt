@@ -9,3 +9,4 @@ TO DO LIST - Indoned Dev Processes:
 8. Menambahkan ERD dan PDM
 9. Menambahkan Implementasi
 10. Menghapus Pengujian
+11. Menambah Screenshot Aplikasi
